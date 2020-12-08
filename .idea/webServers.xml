@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="bcaf01d7-1d21-4ddd-8061-1742257cfc5f" name="cloude_pytorch" url="http://60.205.219.151">
+        <fileTransfer host="60.205.219.151" port="11904" rootFolder="/home/ubuntu" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="11904" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

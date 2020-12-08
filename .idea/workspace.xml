@@ -1,0 +1,793 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="accdfbb9-50d3-4651-a952-21c17eb11092" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Branch_KD$new_vgg__1_.coverage" NAME="new_vgg (1) Coverage Results" MODIFIED="1555597932076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model/VGGNet" />
+    <SUITE FILE_PATH="coverage/Branch_KD$main.coverage" NAME="main Coverage Results" MODIFIED="1552463970869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Branch_KD$test.coverage" NAME="test Coverage Results" MODIFIED="1563460630275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Branch_KD$VGGNet_KD_Branch.coverage" NAME="VGGNet_KD_Branch Coverage Results" MODIFIED="1555925341823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/VGGNet" />
+    <SUITE FILE_PATH="coverage/Branch_KD$LeNet_main.coverage" NAME="LeNet_main Coverage Results" MODIFIED="1554732395172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/LeNet" />
+    <SUITE FILE_PATH="coverage/Branch_KD$AlexNet_KD.coverage" NAME="AlexNet_KD Coverage Results" MODIFIED="1555293296200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/AlexNet" />
+    <SUITE FILE_PATH="coverage/Branch_KD$VGG_main.coverage" NAME="VGG_main Coverage Results" MODIFIED="1553478400262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Branch_KD$get_AlexNet_model.coverage" NAME="get_AlexNet_model Coverage Results" MODIFIED="1555309906642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model/AlexNet" />
+    <SUITE FILE_PATH="coverage/Branch_KD$VGGNet_KD.coverage" NAME="VGGNet_KD Coverage Results" MODIFIED="1557196595186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/VGGNet" />
+    <SUITE FILE_PATH="coverage/Branch_KD$LeNet_main__1_.coverage" NAME="LeNet_main (1) Coverage Results" MODIFIED="1554262858472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeNet" />
+    <SUITE FILE_PATH="coverage/Branch_KD$ResNet_KD_Branch.coverage" NAME="ResNet_KD_Branch Coverage Results" MODIFIED="1559734932714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/ResNet" />
+    <SUITE FILE_PATH="coverage/Branch_KD$get_LeNet_model.coverage" NAME="get_LeNet_model Coverage Results" MODIFIED="1554259309918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model/LeNet" />
+    <SUITE FILE_PATH="coverage/Branch_KD$new_test.coverage" NAME="new_test Coverage Results" MODIFIED="1559708803100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Branch_KD$new.coverage" NAME="new Coverage Results" MODIFIED="1559656244176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Branch_KD$get_VGGNet_model.coverage" NAME="get_VGGNet_model Coverage Results" MODIFIED="1555830182971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model/VGGNet" />
+    <SUITE FILE_PATH="coverage/Branch_KD$ResNet_KD.coverage" NAME="ResNet_KD Coverage Results" MODIFIED="1563436337912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/ResNet" />
+    <SUITE FILE_PATH="coverage/Branch_KD$AlexNet_main.coverage" NAME="AlexNet_main Coverage Results" MODIFIED="1554730525838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AlexNet" />
+    <SUITE FILE_PATH="coverage/Branch_KD$LeNet_KD.coverage" NAME="LeNet_KD Coverage Results" MODIFIED="1554790146763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/LeNet" />
+    <SUITE FILE_PATH="coverage/Branch_KD$new_vgg.coverage" NAME="new_vgg Coverage Results" MODIFIED="1555308316637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model/VGG" />
+    <SUITE FILE_PATH="coverage/Branch_KD$LeNet_main_1.coverage" NAME="LeNet_main_1 Coverage Results" MODIFIED="1552538906165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Branch_KD$get_inference_model.coverage" NAME="get_inference_model Coverage Results" MODIFIED="1575361656534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model/ResNet" />
+    <SUITE FILE_PATH="coverage/Branch_KD$get_ResNet_model.coverage" NAME="get_ResNet_model Coverage Results" MODIFIED="1582251446610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model/ResNet" />
+    <SUITE FILE_PATH="coverage/Branch_KD$LeNet_train_BranchyNet.coverage" NAME="LeNet_train_BranchyNet Coverage Results" MODIFIED="1555164959747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/LeNet" />
+    <SUITE FILE_PATH="coverage/Branch_KD$ResNet.coverage" NAME="ResNet Coverage Results" MODIFIED="1558689653399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model/ResNet" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="80039747">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="44" />
+          <entry key="project.open.time.0" value="5" />
+          <entry key="project.open.time.1" value="5" />
+          <entry key="project.open.time.10" value="3" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.6" value="6" />
+          <entry key="project.open.time.7" value="10" />
+          <entry key="project.open.time.8" value="12" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="52" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="270" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="270" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="13276" />
+          <entry key="txt" value="28" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="28" />
+          <entry key="Python" value="13276" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-column="14" />
+              <folding>
+                <element signature="e#7#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main/ResNet/ResNet_KD.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/functions/branch_functions.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="202">
+              <caret line="490" lean-forward="true" selection-start-line="490" selection-end-line="490" />
+              <folding>
+                <element signature="e#2649#6969#0" />
+                <element signature="e#7135#12546#0" />
+                <element signature="e#12735#20135#0" />
+                <element signature="e#20292#28146#0" />
+                <element signature="e#28382#37729#0" />
+                <element signature="e#37970#47729#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/functions/my_functions.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
+              <folding>
+                <element signature="e#382#845#0" />
+                <element signature="e#911#1146#0" />
+                <element signature="e#1218#1451#0" />
+                <element signature="e#1559#1901#0" />
+                <element signature="e#1956#2297#0" />
+                <element signature="e#2815#2960#0" />
+                <element signature="e#3064#3174#1" />
+                <element signature="e#4343#7694#0" />
+                <element signature="e#7925#12564#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main/ResNet/ResNet_KD_Branch.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model/ResNet/ResNet.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2675">
+              <caret line="109" selection-start-line="109" selection-end-line="111" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model/ResNet/get_ResNet_model.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/temp.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-7923">
+              <caret line="32" column="18" lean-forward="true" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#12#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/new_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>eval_mo</find>
+      <find>adam</find>
+      <find>SGD</find>
+      <find>test_acc</find>
+      <find>get_loss</find>
+      <find>eva</find>
+      <find>star</find>
+      <find>eval</find>
+      <find>train_acc</find>
+      <find>print</find>
+      <find>False</find>
+      <find>VGG</find>
+      <find>corre</find>
+      <find>Train_Sy</find>
+      <find>forward</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\xuefeng35\PycharmProjects\Branch_KD</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/a.py" />
+        <option value="$PROJECT_DIR$/vgg.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/get_AlexNet_model.py" />
+        <option value="$PROJECT_DIR$/model/get _LeNet_model.py" />
+        <option value="$PROJECT_DIR$/model/get_AlexNet_model.py" />
+        <option value="$PROJECT_DIR$/LeNet_main_1.py" />
+        <option value="$PROJECT_DIR$/model/VGG/vgg.py" />
+        <option value="$PROJECT_DIR$/functions.py" />
+        <option value="$PROJECT_DIR$/VGG_main.py" />
+        <option value="$PROJECT_DIR$/VGG_train_BranchyNet.py" />
+        <option value="$PROJECT_DIR$/LeNet_main.py" />
+        <option value="$PROJECT_DIR$/model/get_LeNet_model.py" />
+        <option value="$PROJECT_DIR$/LeNet_train_BranchyNet.py" />
+        <option value="$PROJECT_DIR$/LeNet/LeNet_main.py" />
+        <option value="$PROJECT_DIR$/my_functions.py" />
+        <option value="$PROJECT_DIR$/LeNet/LeNet_train_BranchyNet.py" />
+        <option value="$PROJECT_DIR$/AlexNet/AlexNet_main.py" />
+        <option value="$PROJECT_DIR$/datasets/get_minst_data.py" />
+        <option value="$PROJECT_DIR$/Add_path.py" />
+        <option value="$PROJECT_DIR$/model/LeNet/get_LeNet_model.py" />
+        <option value="$PROJECT_DIR$/main/AlexNet/AlexNet_main.py" />
+        <option value="$PROJECT_DIR$/main/LeNet/LeNet_main.py" />
+        <option value="$PROJECT_DIR$/main/LeNet/LeNet_KD.py" />
+        <option value="$PROJECT_DIR$/main/LeNet/LeNet_train_BranchyNet.py" />
+        <option value="$PROJECT_DIR$/datasets/get_cifar_10.py" />
+        <option value="$PROJECT_DIR$/model/AlexNet/old.py" />
+        <option value="$PROJECT_DIR$/model/VGG/new_vgg.py" />
+        <option value="$PROJECT_DIR$/model/AlexNet/get_AlexNet_model.py" />
+        <option value="$PROJECT_DIR$/main/AlexNet/AlexNet_KD.py" />
+        <option value="$PROJECT_DIR$/model/VGGNet/old_vgg.py" />
+        <option value="$PROJECT_DIR$/datasets/get_cifar_100.py" />
+        <option value="$PROJECT_DIR$/model/VGGNet/get_VGGNet_model.py" />
+        <option value="$PROJECT_DIR$/model/ResNet/ResNet_KD_Branch.py" />
+        <option value="$PROJECT_DIR$/model/VGGNet/new_vgg.py" />
+        <option value="$PROJECT_DIR$/main/VGGNet/VGGNet_KD_Branch.py" />
+        <option value="$PROJECT_DIR$/main/VGGNet/VGGNet_KD.py" />
+        <option value="$PROJECT_DIR$/main/ResNet/ResNet_KD.py" />
+        <option value="$PROJECT_DIR$/model/ResNet/get_inference_model.py" />
+        <option value="$PROJECT_DIR$/model/ResNet/ResNet.py" />
+        <option value="$PROJECT_DIR$/model/ResNet/get_ResNet_model.py" />
+        <option value="$PROJECT_DIR$/model/readme.txt" />
+        <option value="$PROJECT_DIR$/server.py" />
+        <option value="$PROJECT_DIR$/new.py" />
+        <option value="$PROJECT_DIR$/new_test.py" />
+        <option value="$PROJECT_DIR$/main/ResNet/ResNet_KD_Branch.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/temp.py" />
+        <option value="$PROJECT_DIR$/functions/branch_functions.py" />
+        <option value="$PROJECT_DIR$/functions/my_functions.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1940" />
+    <option name="height" value="1100" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Branch_KD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Branch_KD" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Branch_KD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Branch_KD" type="462c0819:PsiDirectoryNode" />
+              <item name="functions" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\xuefeng35\PycharmProjects\Branch_KD\main\ResNet" />
+      <recent name="C:\Users\xuefeng35\PycharmProjects\Branch_KD\functions" />
+      <recent name="C:\Users\xuefeng35\PycharmProjects\Branch_KD\main" />
+      <recent name="C:\Users\xuefeng35\PycharmProjects\Branch_KD\model\LeNet\as" />
+      <recent name="C:\Users\xuefeng35\PycharmProjects\Branch_KD\model\LeNet\sy" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\xuefeng35\PycharmProjects\Branch_KD\model\ResNet\KD" />
+      <recent name="C:\Users\xuefeng35\PycharmProjects\Branch_KD\model\VGGNet\KD_Branch" />
+      <recent name="C:\Users\xuefeng35\PycharmProjects\Branch_KD\datasets\data" />
+      <recent name="C:\Users\xuefeng35\PycharmProjects\Branch_KD\model\AlexNet" />
+      <recent name="C:\Users\xuefeng35\PycharmProjects\Branch_KD" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.get_ResNet_model">
+    <configuration name="ResNet_KD" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Branch_KD" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/main/ResNet" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main/ResNet/ResNet_KD.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ResNet_KD_Branch" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Branch_KD" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/main/ResNet" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main/ResNet/ResNet_KD_Branch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="get_ResNet_model" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Branch_KD" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/model/ResNet" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model/ResNet/get_ResNet_model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="get_inference_model" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Branch_KD" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/model/ResNet" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model/ResNet/get_inference_model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Branch_KD" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.ResNet_KD" />
+      <item itemvalue="Python.ResNet_KD_Branch" />
+      <item itemvalue="Python.get_ResNet_model" />
+      <item itemvalue="Python.get_inference_model" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.get_ResNet_model" />
+        <item itemvalue="Python.get_inference_model" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.ResNet_KD" />
+        <item itemvalue="Python.ResNet_KD_Branch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="accdfbb9-50d3-4651-a952-21c17eb11092" name="Default Changelist" comment="" />
+      <created>1552440283391</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552440283391</updated>
+      <workItem from="1554791827102" duration="72266000" />
+      <workItem from="1554973742216" duration="13030000" />
+      <workItem from="1555039631909" duration="11956000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="97252000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4984227" visible="true" weight="0.24865952" />
+      <window_info id="Structure" order="1" sideWeight="0.5031447" side_tool="true" weight="0.18411553" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3293011" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.4036313" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49932975" weight="0.17318435" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.325419" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067025" side_tool="true" weight="0.3058659" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.21787709" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.20530726" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.32960895" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4984227" visible="true" weight="0.24530831" />
+      <window_info id="Structure" order="1" sideWeight="0.5031447" side_tool="true" weight="0.18411553" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3293011" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.4036313" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49932975" weight="0.17318435" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.325419" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067025" side_tool="true" weight="0.3058659" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.21787709" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.20530726" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.32960895" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="temp1.min" />
+        <watch expression="out" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Branch_KD$AlexNet_KD.coverage" NAME="AlexNet_KD Coverage Results" MODIFIED="1554949695727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/AlexNet" />
+    <SUITE FILE_PATH="coverage/Branch_KD$LeNet_KD.coverage" NAME="LeNet_KD Coverage Results" MODIFIED="1554974186003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/LeNet" />
+    <SUITE FILE_PATH="coverage/Branch_KD$LeNet_train_BranchyNet.coverage" NAME="LeNet_train_BranchyNet Coverage Results" MODIFIED="1555037361945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/LeNet" />
+    <SUITE FILE_PATH="coverage/Branch_KD$test.coverage" NAME="test Coverage Results" MODIFIED="1554908361115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Branch_KD$get_AlexNet_model.coverage" NAME="get_AlexNet_model Coverage Results" MODIFIED="1554950658781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model/AlexNet" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Alex_main.py" />
+    <entry file="file://$USER_HOME$/Anaconda3/envs/Pytorch-CPU/Lib/site-packages/torch/optim/adam.py" />
+    <entry file="file://$USER_HOME$/Anaconda3/envs/Pytorch-CPU/Lib/site-packages/torch/autograd/__init__.py" />
+    <entry file="file://$USER_HOME$/Anaconda3/envs/Pytorch-CPU/Lib/site-packages/torch/nn/modules/loss.py" />
+    <entry file="file://$PROJECT_DIR$/VGG_train_BranchyNet.py" />
+    <entry file="file://$PROJECT_DIR$/main/LeNet/LeNet_main_1.py" />
+    <entry file="file://$PROJECT_DIR$/VGG_main.py" />
+    <entry file="file://$PROJECT_DIR$/model/get_AlexNet_model.py" />
+    <entry file="file://$PROJECT_DIR$/model/LeNet/get_LeNet_model.py" />
+    <entry file="file://$PROJECT_DIR$/main/LeNet/LeNet_main.py" />
+    <entry file="file://$PROJECT_DIR$/Add_path.py" />
+    <entry file="file://$PROJECT_DIR$/main/AlexNet/AlexNet_main.py" />
+    <entry file="file://$PROJECT_DIR$/main/LeNet/LeNet_KD.py" />
+    <entry file="file://$PROJECT_DIR$/datasets/get_minst_data.py" />
+    <entry file="file://$PROJECT_DIR$/main/LeNet/LeNet_train_BranchyNet.py" />
+    <entry file="file://$PROJECT_DIR$/model/VGG/new_vgg.py" />
+    <entry file="file://$PROJECT_DIR$/model/VGG/vgg.py" />
+    <entry file="file://$PROJECT_DIR$/main/AlexNet/AlexNet_KD.py" />
+    <entry file="file://$PROJECT_DIR$/datasets/get_cifar_10.py" />
+    <entry file="file://$PROJECT_DIR$/main/VGGNet/VGGNet_KD_Branch.py" />
+    <entry file="file://$PROJECT_DIR$/main/VGGNet/VGGNet_KD.py" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/Pytorch-CPU/Lib/site-packages/torch/nn/functional.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="1351" selection-start-line="1351" selection-end-line="1351" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/Pytorch-CPU/Lib/multiprocessing/reduction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/Pytorch-CPU/Lib/multiprocessing/spawn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="116" selection-start-line="116" selection-end-line="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/Pytorch-CPU/Lib/site-packages/torch/nn/modules/conv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="319" selection-start-line="319" selection-end-line="319" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/Pytorch-CPU/Lib/site-packages/torch/nn/modules/module.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="768" selection-start-line="768" selection-end-line="768" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/Pytorch-CPU/Lib/site-packages/torch/multiprocessing/reductions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="271" selection-start-line="271" selection-end-line="271" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/Pytorch-CPU/Lib/site-packages/scipy/stats/stats.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6494">
+          <caret line="5480" column="59" selection-start-line="5480" selection-start-column="59" selection-end-line="5480" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/Pytorch-CPU/Lib/site-packages/torch/serialization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="364" selection-start-line="364" selection-end-line="364" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/VGGNet/old_vgg.py" />
+    <entry file="file://$PROJECT_DIR$/model/VGGNet/new_vgg.py" />
+    <entry file="file://$PROJECT_DIR$/model/VGGNet/vgg.py" />
+    <entry file="file://$PROJECT_DIR$/model/VGGNet/get_VGGNet_model.py" />
+    <entry file="file://$PROJECT_DIR$/model/AlexNet/old.py" />
+    <entry file="file://$PROJECT_DIR$/model/AlexNet/get_AlexNet_model.py" />
+    <entry file="file://$PROJECT_DIR$/model/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datasets/get_cifar_100.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="22" column="41" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/get_LeNet_model.py" />
+    <entry file="file://$PROJECT_DIR$/new.py" />
+    <entry file="file://$PROJECT_DIR$/model/ResNet/get_inference_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/ResNet/ResNet_KD.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/ResNet/ResNet_KD_Branch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/ResNet/ResNet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2675">
+          <caret line="109" selection-start-line="109" selection-end-line="111" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/ResNet/get_ResNet_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="14" />
+          <folding>
+            <element signature="e#7#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1559">
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7923">
+          <caret line="32" column="18" lean-forward="true" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/branch_functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="490" lean-forward="true" selection-start-line="490" selection-end-line="490" />
+          <folding>
+            <element signature="e#2649#6969#0" />
+            <element signature="e#7135#12546#0" />
+            <element signature="e#12735#20135#0" />
+            <element signature="e#20292#28146#0" />
+            <element signature="e#28382#37729#0" />
+            <element signature="e#37970#47729#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/my_functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
+          <folding>
+            <element signature="e#382#845#0" />
+            <element signature="e#911#1146#0" />
+            <element signature="e#1218#1451#0" />
+            <element signature="e#1559#1901#0" />
+            <element signature="e#1956#2297#0" />
+            <element signature="e#2815#2960#0" />
+            <element signature="e#3064#3174#1" />
+            <element signature="e#4343#7694#0" />
+            <element signature="e#7925#12564#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

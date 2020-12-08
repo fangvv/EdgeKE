@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="cloude_pytorch">
+    <serverData>
+      <paths name="cloude_pytorch">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/MyFiles/XUE" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
