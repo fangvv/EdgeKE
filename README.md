@@ -162,6 +162,10 @@ Notes:
 - Trained model checkpoints are saved under `model/ResNet/KD/` and `model/ResNet/KD_Branch/`.
 - The `Distance_type` parameter in KD functions supports `"KL"` (KL divergence), `"JS"` (JS divergence), and `"WS"` (Wasserstein distance).
 
+## ⭐ Star
+
+**If you find this work useful for your research, please consider giving this repository a ⭐ star. Your support is greatly appreciated!**
+
 ## Citation
 
 If you find EdgeKE useful or relevant to your project and research, please kindly cite our paper:
